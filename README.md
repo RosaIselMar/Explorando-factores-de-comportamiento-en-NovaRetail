@@ -39,18 +39,27 @@ Identificar los factores del comportamiento de los clientes que presentan una ma
 📘 Cómo reproducir el análisis
 
 Clona o descarga este repositorio.
+
 Abre el notebook S8 Student Version-Project-NovaRetail (2).
+
 Instala las librerías necesarias.
+
 Ejecuta las celdas en orden.
+
 El notebook carga automáticamente el dataset desde /data/ o desde un enlace público, según la configuración del proyecto.
 
 🛠️ Herramientas y tecnologías
 
 -Python: Procesamiento y análisis estadístico.
+
 -Pandas: Exploración, manipulación y preparación de datos.
+
 -NumPy: Operaciones y cálculos numéricos.
+
 -Matplotlib: Visualización de resultados.
+
 -Seaborn: Construcción de heatmaps, scatterplots y gráficos estadísticos.
+
 -Jupyter Notebook: Desarrollo y documentación del análisis.
 
 📈 Resultados del proyecto
