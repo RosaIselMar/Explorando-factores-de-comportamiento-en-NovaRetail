@@ -21,12 +21,19 @@ Identificar los factores del comportamiento de los clientes que presentan una ma
 🔍 Etapas del análisis
 
 -Exploración de datos: Revisión de dimensiones, tipos de variables, estadísticas descriptivas y calidad de la información.
+
 -Preparación de datos: Validación de variables y preparación de los datos para el análisis estadístico.
+
 -Correlación entre variables numéricas: Evaluación de relaciones lineales y monotónicas mediante diferentes coeficientes de correlación.
+
 -Análisis de variables binarias y numéricas: Identificación de asociaciones entre características de los clientes y sus ingresos anuales.
+
 -Análisis de variables categóricas: Evaluación de asociaciones entre categorías mediante técnicas estadísticas.
+
 -Visualización de resultados: Construcción de scatterplots, heatmaps y gráficos para identificar patrones y relaciones.
+
 -Interpretación de hallazgos: Evaluación de la relevancia de las relaciones encontradas, considerando posibles correlaciones engañosas y limitaciones estadísticas.
+
 -Recomendaciones de negocio: Traducción de los resultados en oportunidades para las estrategias de Crecimiento y Retención.
 
 📘 Cómo reproducir el análisis
